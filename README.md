@@ -1,4 +1,4 @@
-# Projeto-APIrest-SpringReact
+# DSMETA - API Rest / Spring Boot / React
 
 
 <h2>Para conseguir utilizar o projeto no Localhost, siga os passos a seguir;</h2>
